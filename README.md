@@ -1,16 +1,64 @@
-## Hi there 👋
+📁 Portfolio Website - README
+Welcome to my Portfolio Website! This project showcases my front-end development skills using HTML and CSS, highlighting a clean, responsive design and a user-friendly experience.
 
-<!--
-**pelingursoy/pelingursoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔗 Live Demo
+View the live site here (https://github.com/pelingursoy/pelingursoy.github.io)
 
-Here are some ideas to get you started:
+🛠️ Technologies Used
+HTML5 – Structure and semantic layout
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+CSS3 – Styling, responsiveness, and visual design
+
+
+📌 Features
+Responsive design for all screen sizes
+
+Modern, minimal UI
+
+Sectioned layout: About, Resume, Contact Me
+
+Smooth scrolling and hover effects
+
+Contact form or social links integration
+
+🚀 Getting Started
+To run the project locally:
+
+Clone the repository: https://github.com/pelingursoy/pelingursoy.github.io
+
+bash
+Copy
+Edit
+git clone 
+Navigate to the project folder:
+
+bash
+Copy
+Edit
+cd pelingursoy.github.io
+Open index.html in your browser.
+
+📂 Folder Structure
+bash
+Copy
+Edit
+/portfolio
+│
+├── index.html
+├── style.css
+└── /assets
+    ├── /images
+    └── /icons
+📧 Contact
+Feel free to connect with me: 
+
+LinkedIn
+www.linkedin.com/in/pelincodes
+Email
+pelincodes@gmail.com
+GitHub
+https://github.com/pelingursoy
+
+
+
+
