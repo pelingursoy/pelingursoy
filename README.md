@@ -15,7 +15,7 @@ Welcome to my GitHub profile! 🎉
 
 💡 Driven by a commitment to software excellence and inclusive design, building robust automation frameworks that ensure high-value, reliable user experiences.
 
-📍 Based in Calgary, Alberta.
+📍 Based in Canada.
 
 🏛️ E-commerce and Software As A Service sector experience
 
@@ -25,9 +25,6 @@ Blending administrative discipline with technical expertise to engineer high-int
 
 ISTQB® Certified Tester Foundation Level
 
-ISTQB® Certified Tester AI Testing
-
-AWS Certified Cloud Practitioner 
 
 🛠️ Tools I use for automation, testing, and development.
 
@@ -37,7 +34,7 @@ AWS Certified Cloud Practitioner
 
 📡 API & Backend Testing
 
-Postman, RestAssured, Swagger, PostgreSQL, MongoDB, JDBC, 
+Postman, RestAssured, Swagger, PostgreSQL, MongoDB, JDBC
   
 💻 IDE, CI/CD & Cloud
 
