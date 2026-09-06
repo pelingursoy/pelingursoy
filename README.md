@@ -5,11 +5,11 @@ Welcome to my GitHub profile! 🎉
 
 🎤 About Me
 
-🧑‍💻 ISTQB® Certified Software QA Engineer with hands-on testing experience in the Telecommunications & SaaS and E-Commerce & Retail.
+🧑‍💻 ISTQB® Certified Software QA Engineer with hands-on testing experience in SaaS and E-Commerce projects.
 
 ⚖️ Former Administrative Assistant, bringing meticulous documentation and analytical precision into tech.
 
-📚 Background in Business Admin Assistant, understanding complex organizational workflows and end-user requirements.
+📚 Background as a Business Admin Assistant, understanding complex organizational workflows and end-user requirements.
 
 🧩 Skilled in test automation, documentation and interdisciplinary collaboration.
 
@@ -30,7 +30,7 @@ ISTQB® Certified Tester Foundation Level
 
 🚀 Programming, Test Automation & Frameworks
 
- Java, Selenium, Cucumber, TestNG, JUnit, Apache Maven, JavaScript, Python, PyTest, AWS            
+ Java, Selenium, Cucumber, TestNG, JUnit, Apache Maven, JavaScript, Python, PyTest, AWS, Playwright, TypeScript 
 
 📡 API & Backend Testing
 
@@ -46,7 +46,7 @@ Git, GitHub, BitBucket, Jira, Xray, Slack, MS Teams
 
 📚 Exploring / Learning
 
-Playwright, Appium, AI Engineering
+Appium, AI & LLM Testing
 
 Let's connect through community, collaboration, or meaningful tech events!
 
