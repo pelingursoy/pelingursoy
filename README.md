@@ -28,6 +28,7 @@ ISTQB® Certified Tester Foundation Level
 
 🛠️ Tools I use for automation, testing, and development.
 
+
 🚀 Programming, Test Automation & Frameworks
 
  Java, Selenium, Cucumber, TestNG, JUnit, Apache Maven, JavaScript, Python, PyTest, AWS, Playwright, TypeScript 
