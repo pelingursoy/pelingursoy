@@ -1,55 +1,176 @@
-Hi 👋, I'm Pelin!
+# 👋 Hi, I'm Pelin!
 
-Welcome to my GitHub profile! 🎉
+### 🧪 Software QA Engineer | Test Automation | Quality Enthusiast
 
+Welcome to my GitHub! 🎉
 
-🎤 About Me
+I'm a **Software QA Engineer** who enjoys turning complex requirements into reliable tests, finding the bugs nobody invited, and building automation that makes software better. 🐛🔍✨
 
-🧑‍💻 ISTQB® Certified Software QA Engineer with hands-on testing experience in SaaS and E-Commerce projects.
+---
 
-⚖️ Former Administrative Assistant, bringing meticulous documentation and analytical precision into tech.
+## 🎤 A Little About Me
 
-📚 Background as a Business Admin Assistant, understanding complex organizational workflows and end-user requirements.
+🧑‍💻 **ISTQB® Certified Software QA Engineer** with hands-on experience testing **SaaS and E-Commerce applications**.
 
-🧩 Skilled in test automation, documentation and interdisciplinary collaboration.
+🔎 Passionate about **software quality, test automation, and creating reliable user experiences**.
 
-💡 Driven by a commitment to software excellence and inclusive design, building robust automation frameworks that ensure high-value, reliable user experiences.
+🧩 Experienced in designing and maintaining automated tests, writing clear test documentation, investigating defects, and collaborating with cross-functional teams.
 
-📍 Based in Canada.
+⚖️ Before moving into tech, I worked in **administrative and business administration roles** — experiences that strengthened my attention to detail, organization, documentation, and analytical thinking.
 
-🏛️ E-commerce and Software As A Service sector experience
+💡 I bring that same mindset into QA: **understand the requirement → think like the user → test beyond the happy path → automate what matters → improve continuously.**
 
-Blending administrative discipline with technical expertise to engineer high-integrity software through automated testing and quality assurance.
+📍 **Based in Canada 🇨🇦**
 
-🏅 Certifications and Badges
+🏛️ **Industry Experience:** E-Commerce & SaaS
 
-ISTQB® Certified Tester Foundation Level
+---
 
+## 🏅 Certification
 
-🛠️ Tools I use for automation, testing, and development.
+🎓 **ISTQB® Certified Tester — Foundation Level (CTFL)**
+**AI & LLM Testing certification**
 
+---
 
-🚀 Programming, Test Automation & Frameworks
+# 🛠️ My QA & Tech Toolbox
 
- Java, Selenium, Cucumber, TestNG, JUnit, Apache Maven, JavaScript, Python, PyTest, AWS, Playwright, TypeScript 
+### 🚀 Automation & Programming
 
-📡 API & Backend Testing
+**Java** • **Selenium** • **Cucumber** • **TestNG** • **JUnit** • **Maven**
 
-Postman, RestAssured, Swagger, PostgreSQL, MongoDB, JDBC
-  
-💻 IDE, CI/CD & Cloud
+**JavaScript** • **TypeScript** • **Python**  • **Playwright**
 
-Visual Studio Code, IntelliJ, PyCharm, GitHub Copilot, Jenkins, BrowserStack, Amazon Web Services
+☁️ **AWS**
 
-🤝 Collaboration & DevOps
+---
 
-Git, GitHub, BitBucket, Jira, Xray, Slack, MS Teams
+### 📡 API, Backend & Database Testing
 
-📚 Exploring / Learning
+**Postman** • **REST Assured** • **Swagger**
 
-Appium, AI & LLM Testing
+**PostgreSQL** • **MongoDB** • **JDBC**
 
-Let's connect through community, collaboration, or meaningful tech events!
+I enjoy testing beyond the UI — validating APIs, data, integrations, and the pieces working behind the scenes. 🔍
 
-Keep coding! 💻 Stay awesome! ✨
-       
+---
+
+### 💻 Development, CI/CD & Cloud
+
+**Visual Studio Code** • **IntelliJ IDEA** • **PyCharm**
+
+**Jenkins** • **BrowserStack** • **AWS** • **GitHub Copilot**
+
+---
+
+### 🤝 Collaboration & DevOps
+
+**Git** • **GitHub** • **Bitbucket**
+
+**Jira** • **Xray** • **Slack** • **Microsoft Teams**
+
+Because great QA isn't just about testing — it's also about **communication and collaboration.** 🤝
+
+---
+
+# 🧪 What I Love About QA
+
+I don't just ask:
+
+**"Does it work?"** 🤔
+
+I like to ask:
+
+**"What happens if...?"** 👀
+
+What if the user enters something unexpected?
+
+What if the API returns an error?
+
+What if the network disappears?
+
+What if the data is incomplete?
+
+What if 10,000 users do it at the same time?
+
+What if the user does something we never thought they would do? 😄
+
+That's where QA gets interesting. 🚀
+
+---
+
+## 💡 My QA Mindset
+
+```text
+        📝 Requirements
+              ↓
+        🧠 Test Strategy
+              ↓
+        🧪 Test Cases
+              ↓
+        🤖 Automation
+              ↓
+        🔍 Defect Investigation
+              ↓
+        📊 Results & Reporting
+              ↓
+        🚀 Better Software
+```
+
+My goal is to build **maintainable, meaningful automation** — not simply create as many automated tests as possible.
+
+---
+
+# 🌱 Currently Exploring
+
+📱 **Appium & Mobile Automation**
+
+🤖 **AI & LLM Testing**
+
+🧠 **AI-assisted Software Testing**
+
+🔬 New approaches to **intelligent test automation**
+
+The tech world never stops changing, so neither does the learning. 📚✨
+
+---
+
+# 🎯 What Matters to Me
+
+🧪 **Quality** — building confidence in every release
+
+🤖 **Automation** — reducing repetitive work and increasing coverage
+
+🔍 **Curiosity** — asking "what if?" before users do
+
+🧠 **Continuous Learning** — staying curious about new tools and technologies
+
+♿ **Inclusive Design** — creating experiences that work for real people
+
+🤝 **Collaboration** — quality is a team effort
+
+---
+
+# 🌟 Let's Connect!
+
+I'm always interested in connecting with people who are passionate about:
+
+🧪 Software Testing & QA
+🤖 Test Automation
+💻 Technology
+🧠 AI & LLM Testing
+🌎 Inclusive Digital Experiences
+🤝 Collaboration & Community
+
+If you're working on something interesting, let's talk! ☕💬
+
+---
+
+<p align="center">
+
+### 🐛 Find it. 🔍 Understand it. 🤖 Automate it. 🚀 Improve it.
+
+## Keep coding. Keep testing. Keep learning. ✨
+
+</p>
+
