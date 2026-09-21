@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Pelin!
+# 👋 Hi,  I'm Pelin!
 
 ### 🧪 Software QA Engineer | Test Automation | Quality Enthusiast
 
